@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "udemy-project1"
+    }
+  },
+  "defaultProject": "udemy-project1",
+  "cli": {
+    "analytics": "1f0d21ee-1fef-4087-8c17-86ec352c0223"
+  }
 }
